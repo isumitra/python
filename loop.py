@@ -1,5 +1,5 @@
       # WHILE LOOP
-'''i = 1
+i = 1
 while i <= 5:  # print no of 1 to 5.
     print(i)
     i = i + 1
@@ -22,7 +22,7 @@ while i <= 5:
 i = 5
 while i >= 0:  
     print(i * "*")
-    i = i - 1  '''
+    i = i - 1  
 
 
 
